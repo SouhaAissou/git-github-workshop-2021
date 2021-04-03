@@ -5,5 +5,6 @@ public class Test{
 	   int s=50;
 	   String name= "souha";
 	   name = name + "aissou"
+	   String email="sa.aissou@esi-sba.dz"
 	}
 }
