@@ -4,5 +4,6 @@ public class Test{
 	   System.out.println("Hello world");
 	   int s=50;
 	   String name= "souha";
+	   name = name + "aissou"
 	}
 }
